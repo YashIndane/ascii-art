@@ -2,6 +2,7 @@ import os
 import cv2
 from colorama import Fore
 
+#New doc added
 #Maps pixel values to ASCII character
 def mapper(r: int, g: int, b: int) -> str:
     PIXEL_DENSITY = '¶@ØÆMåBNÊßÔR#8Q&mÃ0À$GXZA5ñk2S%±3Fz¢yÝCJf1t7ªLc¿+?(r/¤²!*;"^:,..`'
